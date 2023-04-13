@@ -1,5 +1,5 @@
 import React from 'react'
-import { HiArrowRight } from "react-icons/hi";
+
 
 function Card({title,des,icon}) {
   return (

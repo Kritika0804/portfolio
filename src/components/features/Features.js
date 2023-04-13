@@ -2,8 +2,8 @@ import React from 'react'
 import Title from '../Layouts/Title'
 import Card from './Card'
 import { AiFillAppstore } from "react-icons/ai";
-import { FaMobile, FaGlobe, FaBars } from "react-icons/fa";
-import { SiProgress, SiAntdesign } from "react-icons/si";
+import {  FaBars } from "react-icons/fa";
+import { SiProgress } from "react-icons/si";
 
 function Features() {
   return (

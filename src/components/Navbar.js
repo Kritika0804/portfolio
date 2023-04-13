@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link} from 'react-scroll'
-import {logo1} from '../assets/index'
+
 import {navLinksdata} from '../constants/index'
 
 function Navbar() {
