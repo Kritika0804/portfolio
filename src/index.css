@@ -13,3 +13,13 @@
     color: white;
     font-weight: bold;
 }
+
+.b-btn{
+    border-width: 3px;
+    border-color:#ff014f ;
+    border-radius: 20px;
+}
+
+.photo{
+    border-radius: 300px;
+}

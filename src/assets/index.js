@@ -8,7 +8,8 @@ import bookmate from "./images/bookmate.png";
 import education from "./images/education.png";
 import experience from "./images/experience.png";
 import contactlogo from "./images/contactlogo.png";
-
+import techstack from "./images/tech stack.png";
+import myimg from "./images/myimg.jpg";
 export {
   logo,
   logo1,
@@ -19,4 +20,6 @@ export {
   contactlogo,
   education,
   experience,
+  techstack,
+  myimg,
 };
